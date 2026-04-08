@@ -1,7 +1,7 @@
 # Olá, eu sou o Felipe Pazetto 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Desenvolvedor;Trabalhando+de+casa+%F0%9F%8F%A0;Leave+the+gun,+take+the+cannoli." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Desenvolvedor" alt="Typing SVG" />
 </p>
 
 ## 👨‍💻 Sobre mim
