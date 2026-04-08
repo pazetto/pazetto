@@ -8,27 +8,21 @@
 
 * 🏠 **Status:** Trabalhando de casa
 * 💬 **Bio:** _"Leave the gun, take the cannoli."_
-* 🔭 Atualmente desenvolvendo meu [website pessoal](https://github.com/pazetto/pazetto.github.io) e projetos open-source.
-* 🌱 Sempre aprendendo novas tecnologias e aprimorando minhas habilidades.
-* ⚡ **Curiosidade:** Fã de boa tecnologia e cinema clássico.
+* 🔭 Atualmente desenvolvendo meu [website](https://github.com/pazetto/pazetto.github.io), apps em TypeScript e projetos open-source.
+
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" title="HTML5" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" title="CSS3" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" title="GitHub" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/xBase-000000?style=for-the-badge&logo=dBase&logoColor=white" height="40" alt="xBase" title="xBase" />
-</p>
+<div style="display: inline-block;"><br>
+<img alt="HTML5" align="center"src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img alt="CSS3" align="center"src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img alt="JS" align="center"src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img alt="TS" align="center"src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img alt="SQLite" align="center"src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+<img alt="MSQL" align="center"src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+</div><br><br>
 
 ---
 
