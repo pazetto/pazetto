@@ -29,7 +29,7 @@
 **Ferramentas**
 <div style="display: inline-block;"><br>
 <img alt="VSCODE" align="center" src="https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge" />
-
+<img alt="SSMS" align="center" src="https://img.shields.io/badge/SSMS-0D99EF?logo=ssms&logoColor=white&style=for-the-badge" />
 ---
 
 ## 📊 Estatísticas do GitHub
