@@ -14,8 +14,10 @@
 
 ## 🛠️ Tecnologias e Ferramentas
 
+**Linguagens**
 <div style="display: inline-block;"><br>
-<img alt="AdvPL" align="center"src="https://img.shields.io/badge/xBase-000000?style=for-the-badge&logo=dBase&logoColor=white" height="40" />
+<img alt="AdvPL" title="AdvPL" align="center"src="https://img.shields.io/badge/xBase-000000?style=for-the-badge&logo=dBase&logoColor=white" height="40" />
+<img alt="AdvPL" title="AdvPL" align="center"src="https://img.shields.io/badge/xBase-000000?style=for-the-badge&logo=dBase&logoColor=white" height="40" />
 <img alt="HTML5" align="center"src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img alt="CSS3" align="center"src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img alt="JS" align="center"src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -24,6 +26,9 @@
 <img alt="MSQL" align="center"src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
 </div><br><br>
 
+**Ferramentas**
+<div style="display: inline-block;"><br>
+<img alt"VSCODE" align="center" scr="https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge" />
 ---
 
 ## 📊 Estatísticas do GitHub
