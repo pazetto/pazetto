@@ -16,7 +16,7 @@
 
 **Linguagens**
 <div style="display: inline-block;"><br>
-<img alt="AdvPL" title="AdvPL" align="center"src="https://img.shields.io/badge/xBase-000000?style=for-the-badge&logo=dBase&logoColor=white" height="40" />
+<img alt="AdvPL" title="AdvPL" align="center"src="https://img.shields.io/badge/totvs&logo=totvs&logoColor=white" height="40" />
 <img alt="AdvPL" title="AdvPL" align="center"src="https://img.shields.io/badge/xBase-000000?style=for-the-badge&logo=dBase&logoColor=white" height="40" />
 <img alt="HTML5" align="center"src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img alt="CSS3" align="center"src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -28,7 +28,8 @@
 
 **Ferramentas**
 <div style="display: inline-block;"><br>
-<img alt="VSCODE" align="center" scr="https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge" />
+<img alt="VSCODE" align="center" src="https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge" />
+
 ---
 
 ## 📊 Estatísticas do GitHub
