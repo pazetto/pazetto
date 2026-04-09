@@ -31,6 +31,7 @@
 <img alt="VSCODE" align="center" src="https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge" />
 <img alt="SSMS" align="center" src="https://img.shields.io/badge/SSMS-0D99EF?logo=ssms&logoColor=white&style=for-the-badge" />
 <img alt="Git" align="center" src="https://img.shields.io/badge/Git-FFFFFF?logo=git&logoColor=orange&style=for-the-badge" />
+<img alt="GitHub" align="center" src="https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=purple&style=for-the-badge" />
 
 ---
 
