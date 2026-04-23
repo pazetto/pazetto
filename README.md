@@ -6,7 +6,7 @@
 
 ## 👨‍💻 Sobre mim
 
-* 💬 **Bio:** _"Dev, corintiano. Precisa de mais?"_
+* 💬 Dev, corintiano. Precisa de mais?
 * 🔭 Atualmente trabalhando no meu emprego full-time com AdvPL/TL++, desenvolvendo meu [website](https://github.com/pazetto/pazetto.github.io), apps em TypeScript e projetos open-source nas horas vagas.
 
 
