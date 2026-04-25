@@ -16,15 +16,15 @@
 
 **Linguagens**
 <div style="display: inline-block;"><br>
-<img alt="AdvPL"  align="center"src="https://img.shields.io/badge/advpl-FFFFFF?style=for-the-badge&logo=totvs&logoColor=black" />
-<img alt="AdvPL"  align="center"src="https://img.shields.io/badge/tl++-FFFFFF?style=for-the-badge&logo=totvs&logoColor=black" />
-<img alt="HTML5" align="center"src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img alt="CSS3" align="center"src="https://img.shields.io/badge/CSS3-663399?style=for-the-badge&logo=css&logoColor=white" />
-<img alt="Angular" align="center"src="https://img.shields.io/static/v1?label=angular&message=.&color=red&style=for-the-badge&logo=angular" />
-<img alt="JS" align="center"src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img alt="TS" align="center"src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-<img alt="MSQL" align="center"src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-<img alt="SQLite" align="center"src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+<img alt="AdvPL"   align="center"src="https://img.shields.io/badge/advpl-FFFFFF?style=for-the-badge&logo=totvs&logoColor=black" />
+<img alt="AdvPL"   align="center"src="https://img.shields.io/badge/tl++-FFFFFF?style=for-the-badge&logo=totvs&logoColor=black" />
+<img alt="HTML5"   align="center"src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img alt="CSS3"    align="center"src="https://img.shields.io/badge/CSS3-663399?style=for-the-badge&logo=css&logoColor=white" />
+<img alt="Angular" align="center"src="https://img.shields.io/badge/Angular-ED1C24?style=for-the-badge&logo=angular&logoColor=red" /> 
+<img alt="JS"      align="center"src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img alt="TS"      align="center"src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img alt="MSQL"    align="center"src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+<img alt="SQLite"  align="center"src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 </div><br><br>
 
 **Ferramentas**
