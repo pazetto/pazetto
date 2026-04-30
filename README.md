@@ -6,7 +6,7 @@
 
 ## 👨‍💻 Sobre mim
 
-* 💬 Dev, corintiano. Precisa de mais?
+* 💻 Dev since 2012, atuou com linguagem AdvPL e me pós-graduei em Gestão de Projetos. Trabalho com banco de dados por paixão e necessidade rs, tento me manter nessa área sempre que possível.
 * 🔭 Atualmente trabalhando no meu emprego full-time com AdvPL/TL++, desenvolvendo meu [website](https://github.com/pazetto/pazetto.github.io), apps em TypeScript e projetos open-source nas horas vagas.
 
 
